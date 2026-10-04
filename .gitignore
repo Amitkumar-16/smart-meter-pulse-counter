@@ -1,0 +1,15 @@
+# C++ build output
+pulse_generator
+*.o
+
+# Kernel module build output
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.cmd
+Module.symvers
+modules.order
+
+# Editor/system files
+*~
